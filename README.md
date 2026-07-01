@@ -10,12 +10,13 @@ This project implements a simple multiple-choice exam system in C++, including a
 
 ## Compilation
 
-### Using command line (g++ or clang++)
+Using command line (g++ or clang++):
 
-```bash
+```
+git clone https://github.com/anhnq204/tui-exam-system-cpp.git && cd tui-exam-system-cpp
+
 g++ -std=c++11 -o exam *.cpp
 ```
-## Usage
 
 1. Prepare a text file containing questions in the specified format (see below).
 
